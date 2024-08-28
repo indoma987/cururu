@@ -55,19 +55,19 @@ let atual = 0;
 let perguntaAtual;
 let historiaFinal ="";
 
-function mostrarPerguntas () {
+function mostraPerguntas () {
     if(atual>= alternativas.length){
-        mostraResultafo();
+        mostraResultado();
         return;
     }
     perguntaAtual = alternativas [atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
     caixaAlternativas.textContent = "";
-    mostrarAlternativas();
+    mostraAlternativas();
 }
 
 
-function mostrarAlternativas(){
+function mostraAlternativas() {
     for (const opcao of perguntaAtual.alternativa) {
         const botaoAlternativa = document.createElement('button');
         botaoAlternativa.textContent = opcao.texto;
