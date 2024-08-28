@@ -9,8 +9,8 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Ter o poder de curar as pessoas, mas... a doença vai para voce",
-                afirmaçao: "Parabens, agora voce tem uma doença incuravel",
+                texto: "Ter o poder de curar as pessoas, mas... a doença vai para você",
+                afirmaçao: "Parabens, agora você tem uma doença incurável",
             },
             {
                 texto: "Salvar pessoas desconhecidas da morte, mas... sua familia morre",
@@ -24,11 +24,11 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: "Salvar o ecossistema, mas... voce vivera sozinho para todo o sempre",
-                afirmaçao: "Agora voce está soozinho",
+                texto: "Salvar o ecossistema, mas... você viverá sozinho para todo o sempre",
+                afirmaçao: "Agora você está soozinho",
             },
             {
-                texto: "Ter a solução para todos os problemas maritimos, mas... voce jamais vai usufruir dela (agua)",
+                texto: "Ter a solução para todos os problemas maritimos, mas... você jamais vai usufruir dela (agua)",
                 afirmaçao: "Ta sem agua bobinho",
             },
         ]
@@ -39,11 +39,11 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Viver em um mundo onde as máquinas dominaram tudo, mas... voce não vai ter outra fonte de renda, ja que as vagas de emprego foram ocupadas pelas mesmas",
+                texto: "Viver em um mundo onde as máquinas dominaram tudo, mas... você não vai ter outra fonte de renda, ja que as vagas de emprego foram ocupadas pelas mesmas",
                 afirmaçao: "Robos invadiram o mundo e se tornaram nós",
             },
             {
-                texto: "Viver com uma máquina que faz tudo por voce, mas... não terá contato com outro ser humano",
+                texto: "Viver com uma máquina que faz tudo por você, mas... não terá contato com outro ser humano",
                 afirmaçao: "Esta sozinho no mundo",
             },
         ]
