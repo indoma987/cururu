@@ -55,7 +55,7 @@ let atual = 0;
 let perguntaAtual;
 let historiaFinal ="";
 
-function mostraPerguntas () {
+function mostrarPerguntas () {
     if(atual>= alternativas.length){
         mostraResultado();
         return;
@@ -63,11 +63,11 @@ function mostraPerguntas () {
     perguntaAtual = alternativas [atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
     caixaAlternativas.textContent = "";
-    mostraAlternativas();
+    mostrarAlternativas();
 }
 
 
-function mostraAlternativas() {
+function mostrarAlternativas() {
     for (const opcao of perguntaAtual.alternativa) {
         const botaoAlternativa = document.createElement('button');
         botaoAlternativa.textContent = opcao.texto;
