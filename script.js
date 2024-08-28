@@ -40,7 +40,7 @@ const alternativas = [
         alternativa: [
             {
                 texto: "Viver em um mundo onde as máquinas dominaram tudo, mas... você não vai ter outra fonte de renda, ja que as vagas de emprego foram ocupadas pelas mesmas",
-                afirmaçao: "Robos invadiram o mundo e se tornaram nós",
+                afirmaçao: "Robos invadiram o mundo e eliminaram todos",
             },
             {
                 texto: "Viver com uma máquina que faz tudo por você, mas... não terá contato com outro ser humano",
