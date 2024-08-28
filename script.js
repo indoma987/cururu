@@ -10,11 +10,11 @@ const alternativas = [
         alternativa: [
             {
                 texto: "Ter o poder de curar as pessoas, mas... a doença vai para você",
-                afirmaçao: "Parabens, agora você tem uma doença incurável",
+                afirmaçao: "Parabens, agora você tem uma doença incurável.",
             },
             {
                 texto: "Salvar pessoas desconhecidas da morte, mas... sua familia morre",
-                afirmaçao: "Sua familia morreu",
+                afirmaçao: "Sua familia morreu.",
             },
         ]
         
@@ -25,11 +25,11 @@ const alternativas = [
         alternativa: [
             {
                 texto: "Salvar o ecossistema, mas... você viverá sozinho para todo o sempre",
-                afirmaçao: "Agora você está soozinho",
+                afirmaçao: "Agora você está soozinho.",
             },
             {
                 texto: "Ter a solução para todos os problemas maritimos, mas... você jamais vai usufruir dela (agua)",
-                afirmaçao: "Ta sem agua bobinho",
+                afirmaçao: "Ta sem agua bobinho.",
             },
         ]
         
@@ -40,11 +40,11 @@ const alternativas = [
         alternativa: [
             {
                 texto: "Viver em um mundo onde as máquinas dominaram tudo, mas... você não vai ter outra fonte de renda, ja que as vagas de emprego foram ocupadas pelas mesmas",
-                afirmaçao: "Robos invadiram o mundo e eliminaram todos",
+                afirmaçao: "Robos invadiram o mundo e eliminaram todos.",
             },
             {
                 texto: "Viver com uma máquina que faz tudo por você, mas... não terá contato com outro ser humano",
-                afirmaçao: "Esta sozinho no mundo",
+                afirmaçao: "Esta sozinho no mundo.",
             },
         ]
         
