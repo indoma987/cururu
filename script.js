@@ -9,12 +9,12 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 1",
-                afirmaçao: "Afirmação 1",
+                texto: "Ter o poder de curar as pessoas, mas... a doença vai para voce",
+                afirmaçao: "Parabens, agora voce tem uma doença incuravel",
             },
             {
-                texto: "Alternativa 2",
-                afirmaçao: "Afirmação 2",
+                texto: "Salvar pessoas desconhecidas da morte, mas... sua familia morre",
+                afirmaçao: "Sua familia morreu",
             },
         ]
         
@@ -24,12 +24,12 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 3",
-                afirmaçao: "Afirmação 3",
+                texto: "Salvar o ecossistema, mas... voce vivera sozinho para todo o sempre",
+                afirmaçao: "Agora voce está soozinho",
             },
             {
-                texto: "Alternativa 4",
-                afirmaçao: "Afirmação 4",
+                texto: "Ter a solução para todos os problemas maritimos, mas... voce jamais vai usufruir dela (agua)",
+                afirmaçao: "Ta sem agua bobinho",
             },
         ]
         
@@ -39,12 +39,12 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 5",
-                afirmaçao: "Afirmação 5",
+                texto: "Viver em um mundo onde as máquinas dominaram tudo, mas... voce não vai ter outra fonte de renda, ja que as vagas de emprego foram ocupadas pelas mesmas",
+                afirmaçao: "Robos invadiram o mundo e se tornaram nós",
             },
             {
-                texto: "Alternativa 6",
-                afirmaçao: "Afirmação 6",
+                texto: "Viver com uma máquina que faz tudo por voce, mas... não terá contato com outro ser humano",
+                afirmaçao: "Esta sozinho no mundo",
             },
         ]
         
